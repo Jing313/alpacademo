@@ -3,7 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo 
-![ALPACADABRAZ NFT - Demo](https://user-images.githubusercontent.com/33013882/186894020-d6ca15b2-5cf0-4965-aec7-e2aaf555a0a5.gif)
+![ALPACADABRAZ NFT - Demo](https://user-images.githubusercontent.com/33013882/186895184-cce34f18-b875-48c7-a430-ea094f150347.gif)
+
 
 
 ## Available Scripts
